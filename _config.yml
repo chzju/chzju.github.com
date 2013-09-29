@@ -6,7 +6,7 @@ rdiscount:
 title : FIREICE
 production_url : http://aowcan.com
 description: "aowcan's blog about anything he interested"
-disqus_shortname: aowcanblog
+disqus_shortname: aowcan
 analytics: UA-37710507-1
 author :
   name : Hui Chen
