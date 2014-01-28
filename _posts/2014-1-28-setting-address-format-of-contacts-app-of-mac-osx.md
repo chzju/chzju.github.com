@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 调整mac通讯录联系人电话号码显示格式
+title: 调整mac osx通讯录中的电话号码显示格式
 category: posts
 ---
 
