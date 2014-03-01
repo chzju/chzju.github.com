@@ -5,4 +5,4 @@ gem 'rdiscount'
 gem 'jekyll'
 
 gem 'rmagick'
-
+gem 'redcarpet'
