@@ -3,7 +3,7 @@ layout: post
 title: 安装yosemite
 category: posts
 ---
-![yosemite_alt](yosemite)
+![yosemite_alt][yosemite]
 
 1. 我是从10.9.5 mavericks升级到正式版本的10.10 yosemite。安装过程中进度条卡在“还剩余两分钟”半个多小时，强制重启了两次没有效果。在安装界面command+L查看安装日志，发现日志还在滚动说明安装程序应该没有问题。又等了大约半个多小时之后终于安装成功。后来搜索发现是因为homebrew和mactex的原因导致很多文件需要迁移耗费时间。
 
