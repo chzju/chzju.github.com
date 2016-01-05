@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从iphone6换到iphone6s要做写什么
+title: 从iphone6换到iphone6s需要做什么
 category: posts
 ---
 ![iphone6s][iphone6s]
