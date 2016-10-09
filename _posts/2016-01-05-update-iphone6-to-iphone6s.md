@@ -19,5 +19,12 @@ category: posts
 1. 登录 https://appleid.apple.com/account/manage 将black从受信任设备中移除，添加新的silver设备
 1. imessage又不能激活了。 下次再去湖滨apple店碰碰运气看能不能激活
 
+历史数据被清理的app：
+* google authenticator，私人的验证器一定要另外保存一份。google自身的可以通过手机短信找回
+* muji passport 需要重新输入pin码（从black找出来想要输入的时候发现居然没法聚焦输入框。。）
+
+第二天早上：
+
+1. 电量直接掉到35%，检查发现滴滴出行后台运行消耗50%+电力，果断关闭后台更新(black已经关闭了后台更新，silver没有同步过来)
 
 [iphone6s]: /images/20160105/iphone6s.png "iphone6s"
