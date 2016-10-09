@@ -1,4 +1,4 @@
-pygments: true
+highlighter: rouge
 permalink: /posts/:title
 title : FIREICE
 production_url : http://aowcan.com
