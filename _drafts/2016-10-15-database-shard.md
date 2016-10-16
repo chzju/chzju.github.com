@@ -1,4 +1,8 @@
-数据库分片关键技术
+---
+layout: post
+title: 数据库分片关键技术
+category: posts
+---
 
 1. 分布式全局唯一id
 	1. Twitter的Snowflake 64位唯一Id（由41位的timestamp+ 10位自定义的机器码+ 13位累加计数器组成）
@@ -33,11 +37,6 @@
 1. 分片解决方案：
     1. 基于应用程序层面的DDAL（分布式数据库访问层）  TDDL等
     1. 数据库代理服务器mycat、kingshard
-    1.
-
-
-
-
 
 
 refs:
