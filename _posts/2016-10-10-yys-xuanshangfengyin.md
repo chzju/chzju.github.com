@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 阴阳师备忘
+title: 阴阳师备忘-封印妖怪
 category: posts
 ---
 
